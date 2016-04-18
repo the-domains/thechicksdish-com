@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TheChicksDish.com]]></title>
+        <description><![CDATA[TheChicksDish.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Apr 2016 18:22:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[B'S CHOCOLATE CHIP COOKIES]]></title>
+            <description><![CDATA[<p>B’S CHOCOLATE CHIP COOKIES…YUM! </p>]]></description>
+            <link>undefinedbs-chocolate-chip-cookies/index.html</link>
+            <guid isPermaLink="false">4d6122be-81f9-42dd-b2f5-df4a1e4a219d</guid>
+            <pubDate>Mon, 18 Apr 2016 18:22:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
